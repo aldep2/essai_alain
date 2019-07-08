@@ -1,7 +1,16 @@
 body{
 	width:80%;
 }
-
+#bloc_page
+{
+   	background: url('images/fond_jaune.png');
+	 width: 900px;
+   	 margin: auto;
+	border-style:solid;
+	border-color:black;
+	border-radius:30px;
+	padding: 10px;
+}
 div, p, h1{
 	width:80%;
 	border:1px solid black;
